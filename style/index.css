@@ -15,6 +15,7 @@ h1 {
 
 li {
   list-style: decimal;
+  margin-bottom: 4rem;
 }
 
 a {
