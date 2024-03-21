@@ -6,27 +6,25 @@ body {
   justify-items: center;
   align-items: center;
 }
-h1{
-    color: #a06363;
-    font-size: 4rem;
-    text-decoration: underline;
-    text-underline-offset: 10px;
+h1 {
+  color: #a06363;
+  font-size: 4rem;
+  text-decoration: underline;
+  text-underline-offset: 10px;
 }
 
 li {
   list-style: decimal;
-  font-size: x-large;
-  background-color: #a06363;
-  padding: 1rem 2rem;
-  border-radius: 1rem;
-}
-
-li:hover {
-  background-color: #cb4a4a;
 }
 
 a {
   text-decoration: none;
   color: aliceblue;
+  font-size: x-large;
+  background-color: #a06363;
+  padding: 1rem 2rem;
+  border-radius: 1rem;
 }
-
+a:hover {
+  background-color: #cb4a4a;
+}
